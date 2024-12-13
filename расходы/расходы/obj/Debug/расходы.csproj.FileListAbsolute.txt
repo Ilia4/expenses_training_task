@@ -1,0 +1,10 @@
+C:\Users\gf126\source\repos\расходы\расходы\bin\Debug\расходы.exe.config
+C:\Users\gf126\source\repos\расходы\расходы\bin\Debug\расходы.exe
+C:\Users\gf126\source\repos\расходы\расходы\bin\Debug\расходы.pdb
+C:\Users\gf126\source\repos\расходы\расходы\obj\Debug\расходы.csproj.AssemblyReference.cache
+C:\Users\gf126\source\repos\расходы\расходы\obj\Debug\расходы.Form1.resources
+C:\Users\gf126\source\repos\расходы\расходы\obj\Debug\расходы.Properties.Resources.resources
+C:\Users\gf126\source\repos\расходы\расходы\obj\Debug\расходы.csproj.GenerateResource.cache
+C:\Users\gf126\source\repos\расходы\расходы\obj\Debug\расходы.csproj.CoreCompileInputs.cache
+C:\Users\gf126\source\repos\расходы\расходы\obj\Debug\расходы.exe
+C:\Users\gf126\source\repos\расходы\расходы\obj\Debug\расходы.pdb
